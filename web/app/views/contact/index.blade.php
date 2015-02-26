@@ -1,8 +1,10 @@
 @section('pageTitle')
     <div class="jumbotron">
         <h1>{{$pageTitle}}</h1>
-        <p class="lead">Oh. You need a little dummy text for your mockup? How quaint.</p>
-        <p>I bet you’re still using Bootstrap too…</p>
+        <p class="lead">
+            Email me at <a href="mailto:patricia.heywood@littlebearproduction.co.uk">patricia.heywood@littlebearproduction.co.uk</a>
+            for all your project management needs
+        </p>
     </div>
 @stop
 
