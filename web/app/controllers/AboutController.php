@@ -5,7 +5,7 @@ class AboutController extends BaseController {
   public function index() {
     $this->layout->messages = array();
 
-    $pageTitle = 'Welcome to my Stuffff...';
+    $pageTitle = 'Welcome to Little Bear Production';
     $navigationActive = 'about';
 
     $this->layout->content = View::make('about.index');

@@ -23,7 +23,7 @@ class HomeController extends BaseController {
 	public function index() {
 		$this->layout->messages = array();
 
-		$pageTitle = "There's no place like 127.0.0.1";
+		$pageTitle = "Little Bear Production Ltd.";
 		$navigationActive = 'home';
 
 		$this->layout->content = View::make('home.index');
