@@ -15,6 +15,8 @@ class HomeController extends BaseController {
 	|
 	*/
 
+  public $layout = 'layouts.carousel';
+
 	public function showWelcome()
 	{
 		return View::make('hello');
@@ -26,7 +28,7 @@ class HomeController extends BaseController {
 		$pageTitle = "Little Bear Production Ltd.";
 		$navigationActive = 'home';
 
-		$this->layout->content = View::make('home.index');
+		$this->layout->content = View::make('home.carousel');
 		View::share(array('pageTitle' => $pageTitle, 'navigationActive' => $navigationActive));
 	}
 
