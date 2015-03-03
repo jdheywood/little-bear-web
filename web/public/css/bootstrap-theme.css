@@ -252,6 +252,7 @@
 .navbar-nav > li > a {
   text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
 }
+/*3c3c3c*/
 .navbar-inverse {
   background-image: -webkit-linear-gradient(top, #3c3c3c 0%, #222 100%);
   background-image:      -o-linear-gradient(top, #3c3c3c 0%, #222 100%);

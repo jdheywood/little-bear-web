@@ -4475,7 +4475,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
 }
 .navbar-inverse {
-  background-color: #222;
+  background-color: #70FAFA;
   border-color: #080808;
 }
 .navbar-inverse .navbar-brand {
@@ -4841,7 +4841,7 @@ a.badge:focus {
   padding: 30px 15px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eee;
+  background-color: #ccf5f5;
 }
 .jumbotron h1,
 .jumbotron .h1 {
