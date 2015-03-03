@@ -23,4 +23,6 @@ Route::get('about', array('as' => 'about', 'uses' => 'AboutController@index'));
 
 Route::get('contact', array('as' => 'contact', 'uses' => 'ContactController@index'));
 
-Route::get('parallax', array('as' => 'parallax', 'uses' => 'EffectController@parallax'));
+Route::get('project', array('as' => 'project', 'uses' => 'ProjectController@index'));
+
+Route::get('production', array('as' => 'production', 'uses' => 'ProductionController@index'));
