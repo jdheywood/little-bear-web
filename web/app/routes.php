@@ -11,18 +11,11 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('hello');
-});
-
 Route::get('/', array('as' => '/', 'uses' => 'HomeController@index'));
 Route::get('home', array('as' => 'home', 'uses' => 'HomeController@index'));
 
-Route::get('about', array('as' => 'about', 'uses' => 'AboutController@index'));
+Route::get('experience', array('as' => 'experience', 'uses' => 'ExperienceController@index'));
+
+Route::get('portfolio', array('as' => 'portfolio', 'uses' => 'PortfolioController@index'));
 
 Route::get('contact', array('as' => 'contact', 'uses' => 'ContactController@index'));
-
-Route::get('project', array('as' => 'project', 'uses' => 'ProjectController@index'));
-
-Route::get('production', array('as' => 'production', 'uses' => 'ProductionController@index'));

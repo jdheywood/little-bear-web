@@ -6,8 +6,9 @@
 
         <div class="jumbotron">
             <h1>{{$pageTitle}}</h1>
-            <p class="lead">Bacon ipsum dolor amet venison doner rump landjaeger pancetta, spare ribs flank shankle beef ribs strip steak.
-                Shoulder strip steak prosciutto swine bresaola andouille tri-tip ground round.</p>
+            <p class="lead">Welcome to Little Bear Production. Started in 2015 we are a small company providing project management
+                and production services to the media, entertainment, e-learning and digital industries.
+            </p>
         </div>
 
         <hr class="featurette-divider">
@@ -15,24 +16,30 @@
         <div class="row">
             <div class="col-lg-4">
                 <img class="img-circle" src="holder.js/140x140/auto" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-                <h2>Project Management</h2>
-                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.
-                    Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                <h2>Project Management & Production</h2>
+                <p>
+                    Please have a read through my extensive <a href="/experience">experience</a> to see the skills and knowledge
+                    I can offer you to help make your next project a success.
+                </p>
+                <p><a class="btn btn-default" href="/experience" role="button">My experience »</a></p>
             </div>
             <div class="col-lg-4">
                 <img class="img-circle" src="holder.js/140x140/auto" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-                <h2>Production</h2>
-                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur
-                    purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                <h2>Portfolio</h2>
+                <p> Take a look at my
+                    <a href="/portfolio">portfolio</a> for some examples of my work and to see some of the great brands
+                    I've had the pleasure of working with.
+                </p>
+                <p><a class="btn btn-default" href="/portfolio" role="button">My portfolio »</a></p>
             </div>
             <div class="col-lg-4">
                 <img class="img-circle" src="holder.js/140x140/auto" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-                <h2>Cakes!</h2>
-                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.
-                    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                <h2>Contact</h2>
+                <p>If you like what you see and want to inquire about my availability then please do not hesitate
+                    to <a href="/contact">get in touch</a>, I'd love to hear about the interesting projects you have in mind
+                    and discuss how I can help you realise the success that your great ideas deserve.
+                </p>
+                <p><a class="btn btn-default" href="/contact" role="button">Get in touch »</a></p>
             </div>
         </div>
 

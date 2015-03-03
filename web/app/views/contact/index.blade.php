@@ -7,8 +7,7 @@
         <div class="jumbotron">
             <h1>{{$pageTitle}}</h1>
             <p class="lead">
-                Email me at <a class="small" href="mailto:patricia.heywood@littlebearproduction.co.uk">patricia.heywood@littlebearproduction.co.uk</a>
-                for all your project management needs
+                Email me at <a class="small" href="mailto:patricia.heywood@littlebearproduction.co.uk">patricia.heywood@littlebearproduction.co.uk</a> or call on +44 7777 777 777 to find out how I can help you deliver a successful project on time and on budget.
             </p>
         </div>
 

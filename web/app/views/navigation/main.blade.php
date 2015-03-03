@@ -14,11 +14,11 @@
                 <li @if($navigationActive == 'home') class="active" @endif>
                     <a href="/home">Home</a>
                 </li>
-                <li @if($navigationActive == 'project') class="active" @endif>
-                    <a href="/project">Project Management</a>
+                <li @if($navigationActive == 'experience') class="active" @endif>
+                    <a href="/experience">Experience</a>
                 </li>
-                <li @if($navigationActive == 'production') class="active" @endif>
-                    <a href="/production">Production</a>
+                <li @if($navigationActive == 'portfolio') class="active" @endif>
+                    <a href="/portfolio">Portfolio</a>
                 </li>
                 <li @if($navigationActive == 'contact') class="active" @endif>
                     <a href="/contact">Contact</a>
