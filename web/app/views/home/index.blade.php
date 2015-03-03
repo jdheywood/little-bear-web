@@ -5,8 +5,8 @@
         <hr class="divider">
 
         <div class="jumbotron">
-            <h1>{{$pageTitle}}</h1>
-            <p class="lead">Welcome to Little Bear Production. Started in 2015 we are a small company providing project management
+            <h1>Welcome to Little Bear Production</h1>
+            <p class="lead">Started in 2015 we are a small company providing project management
                 and production services to the media, entertainment, e-learning and digital industries.
             </p>
         </div>

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{{{ isset($pageTitle) ? $pageTitle . ' | ' : '' }}}Stuffff...</title>
+    <title>{{{ isset($pageTitle) ? $pageTitle . ' | ' : '' }}}Little Bear Production Ltd.</title>
 
     <!-- Main -->
     <link href="css/main.css" rel="stylesheet">

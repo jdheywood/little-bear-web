@@ -17,9 +17,9 @@
         <div class="row featurette">
             <div class="col-md-7">
                 <h2 class="featurette-heading">
-                    Production Management <span class="text-muted">Years of this, all over it.</span>
+                    Uncharted: Drake's Fortune <span class="text-muted">Award winning AAA Playstation 3 title.</span>
                 </h2>
-                <p class="lead">Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit.</p>
+                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
             </div>
             <div class="col-md-5">
                 <img class="featurette-image img-responsive" src="img/uncharted_montage_transparent.png" alt="uncharted"/>
@@ -34,9 +34,9 @@
             </div>
             <div class="col-md-7">
                 <h2 class="featurette-heading">
-                    Supplier Coordination <span class="text-muted">I'm adept at herding those cats.</span>
+                    Buzz! The Music Quiz <span class="text-muted">Genre defining social quiz for PS3.</span>
                 </h2>
-                <p class="lead">You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder. After the avalanche, it took us a week to climb out. Now, I don't know exactly when we turned on each other, but I know that seven of us survived the slide... and only five made it out. Now we took an oath, that I'm breaking now. We said we'd say it was the snow that killed the other two, but it wasn't. Nature is lethal but it doesn't hold a candle to man.</p>
+                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
             </div>
         </div>
 
@@ -45,9 +45,9 @@
         <div class="row featurette">
             <div class="col-md-7">
                 <h2 class="featurette-heading">
-                    Something something production <span class="text-muted">I can do all this stuff too, look!</span>
+                    Numerous Album Productions <span class="text-muted">Production &amp; distribution of top selling albums.</span>
                 </h2>
-                <p class="lead">Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to my shirt with my name printed on it? Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters in it? No? Well, that's what you see at a toy store. And you must think you're in a toy store, because you're here shopping for an infant named Jeb.</p>
+                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
             </div>
             <div class="col-md-5">
                 <img class="featurette-image img-responsive" src="img/albums_montage_transparent.png" alt="albums"/>
