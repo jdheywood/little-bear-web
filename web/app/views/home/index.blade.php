@@ -15,7 +15,7 @@
 
         <div class="row">
             <div class="col-lg-4">
-                <img class="img-circle" src="holder.js/140x140/auto" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+                <img class="img-circle" src="img/icon_experience.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
                 <h2>Project Management & Production</h2>
                 <p>
                     Please have a read through my extensive <a href="/experience">experience</a> to see the skills and knowledge
@@ -24,7 +24,7 @@
                 <p><a class="btn btn-default" href="/experience" role="button">My experience »</a></p>
             </div>
             <div class="col-lg-4">
-                <img class="img-circle" src="holder.js/140x140/auto" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+                <img class="img-circle" src="img/icon_portfolio.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
                 <h2>Portfolio</h2>
                 <p> Take a look at my
                     <a href="/portfolio">portfolio</a> for some examples of my work and to see some of the great brands
@@ -33,7 +33,7 @@
                 <p><a class="btn btn-default" href="/portfolio" role="button">My portfolio »</a></p>
             </div>
             <div class="col-lg-4">
-                <img class="img-circle" src="holder.js/140x140/auto" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+                <img class="img-circle" src="img/icon_contact.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
                 <h2>Contact</h2>
                 <p>If you like what you see and want to inquire about my availability then please do not hesitate
                     to <a href="/contact">get in touch</a>, I'd love to hear about the interesting projects you have in mind
