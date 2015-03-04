@@ -5,7 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!--Remove once content finalised, and then get google to crawl via analytics/webmaster tools-->
+    <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
     <title>{{{ isset($pageTitle) ? $pageTitle . ' | ' : '' }}}Little Bear Production Ltd.</title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
     <!-- Main -->
     <link href="css/main.css" rel="stylesheet">
