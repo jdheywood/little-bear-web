@@ -1294,6 +1294,10 @@ small,
 .small {
   font-size: 85%;
 }
+smaller,
+.smaller {
+  font-size: 75%;
+}
 mark,
 .mark {
   padding: .2em;

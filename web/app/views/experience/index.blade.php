@@ -17,6 +17,17 @@
         <div class="row featurette">
             <div class="col-md-12">
                 <h2 class="featurette-heading">
+                    International Corporate or Media Startup <span class="text-muted">And everything in between.</span>
+                </h2>
+                <p class="lead"> I've years of experience working within organisations of a variety of sizes and cultures, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <div class="row featurette">
+            <div class="col-md-12">
+                <h2 class="featurette-heading">
                     Requirement Gathering <span class="text-muted">Lorem ipsum dolor sit amet.</span>
                 </h2>
                 <p class="lead">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
