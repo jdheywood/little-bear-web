@@ -77,6 +77,24 @@
 
         <hr class="featurette-divider">
 
+        <div class="row featurette">
+            <div class="col-md-7">
+                <h2 class="featurette-heading">
+                    Hit Single Productions <span class="text-muted">Production &amp; distribution of many hit singles.</span>
+                </h2>
+                <p class="lead">Including several top tens and a couple of number ones!
+                    <a href="http://www.allmusic.com/song/operation-blade-public-domain-mt0002206516">Public Domain</a> consectetur adipiscing elit,
+                    <a href="http://www.allmusic.com/album/gotta-get-thru-this-mw0000227990" target="_blank">Daniel Bedingfield</a> do eiusmod tempor incididunt
+                    <a href="http://www.allmusic.com/album/behind-the-sun-mw0000066802" target="_blank">Behind the Sun</a> ut labore et dolore magna aliqua.
+                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+            </div>
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive" src="img/singles_montage_transparent.png" alt="albums"/>
+            </div>
+        </div>
+
+        <hr class="featurette-divider">
+
         @include('shared.footer')
 
     </div>

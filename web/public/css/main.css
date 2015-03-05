@@ -30,3 +30,26 @@
 body {
     background-color: #66C5C5!important;
 }
+
+.panel-title.featurette-heading a {
+    color: #23527c;
+    font-size: 20px;
+}
+
+@media screen and (min-width: 768px) {
+    .panel-title.featurette-heading a {
+        font-size: 40px;
+    }
+}
+
+.panel-title.featurette-heading a:hover {
+    text-decoration: underline;
+}
+
+.panel.panel-default .panel-heading {
+    background-color: #e2f5de;
+    background-image: none;
+}
+.panel.panel-default .panel-body {
+    background-color: #ccf5f5;
+}
